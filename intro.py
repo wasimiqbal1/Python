@@ -1,5 +1,7 @@
 
-name : str = 700
+name  = "Wasim IQbal"
 print(name)
 print(type(name))
 print(id(name))
+
+
